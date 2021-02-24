@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e022be7c6800651418c2a6b79392b2ca
+  - enabled: 1
+    path: Assets/Scenes/ExampleMatchmaking.unity
+    guid: 9c235c0c15beb2c4a947221afca602ed
+  - enabled: 1
+    path: Assets/Scenes/Tower.unity
+    guid: 8be802b571475624088a8a42705592af
+  m_configObjects: {}
